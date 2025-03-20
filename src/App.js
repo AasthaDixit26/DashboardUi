@@ -17,11 +17,10 @@ function App() {
     <ThemeProvider theme={darkTheme}> 
     <CssBaseline />
    
-    {/* <Box sx={{ overflow: 'hidden'}} >
+   <Box sx={{ overflow: 'hidden'}} >
        <Header/>
        <MainTabs/>
     </Box>
-      */}
     </ThemeProvider>
     </div>
   );
